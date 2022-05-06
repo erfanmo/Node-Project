@@ -1,0 +1,53 @@
+{
+
+    "Zinc": [{
+            "amount": 22,
+            "unit": "mg",
+            "absorption": 15
+        },
+        {
+            "amount": 30,
+            "unit": "mg",
+            "absorption": 10
+        },
+        {
+            "amount": 50,
+            "unit": "mg",
+            "absorption": 10
+        }
+    ],
+
+    "Vitamin D3": [{
+            "amount": 1000,
+            "unit": "iU",
+            "absorption": 78
+        },
+        {
+            "amount": 3000,
+            "unit": "iU",
+            "absorption": 100
+        },
+        {
+            "amount": 3000,
+            "unit": "iU",
+            "absorption": 78
+        }
+    ],
+
+    "Omega-3": [{
+            "amount": 750,
+            "unit": "mg",
+            "absorption": 100
+        },
+        {
+            "amount": 2000,
+            "unit": "mg",
+            "absorption": 100
+        },
+        {
+            "amount": 1400,
+            "unit": "mg",
+            "absorption": 100
+        }
+    ]
+}

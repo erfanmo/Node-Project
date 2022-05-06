@@ -1,0 +1,53 @@
+{
+    "A": [{
+        "Zinc": {
+            "amount": 6.6,
+            "per": "mg/d"
+        },
+
+        "Vitamin D3": {
+            "amount": 1500,
+            "per": "iU/d"
+        },
+
+        "Omega-3": {
+            "amount": null
+        }
+
+    }],
+
+
+    "B": [{
+        "Zinc": {
+            "amount": 2.6,
+            "per": "mg/d"
+        },
+
+        "Vitamin D3": {
+            "amount": 3000,
+            "per": "iU/d"
+        },
+
+        "Omega-3": {
+            "amount": 1500,
+            "per": "mg/d"
+        }
+    }],
+
+    "C": [{
+        "Zinc": {
+            "amount": 3.6,
+            "per": "mg/d"
+        },
+
+        "Vitamin D3": {
+            "amount": 3000,
+            "per": "iU/d"
+        },
+
+        "Omega-3": {
+            "amount": 2000,
+            "per": "mg/d"
+        }
+    }]
+}
