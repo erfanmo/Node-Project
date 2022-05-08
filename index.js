@@ -55,9 +55,13 @@ app.get("/dnd", [dndMiddleware], (req, res) => {
 
 
 });
-app.use((error, req, resp, next) => {
-
-})
-
+app.use((error, req, res, next) => {
+    res.status(error.status || 500);
+    res.json({
+        error: {
+            message: error.message,
+        },
+    });
+});
 
 app.listen(PORT, () => (`listening on port ${PORT}`))
